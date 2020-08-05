@@ -8,7 +8,8 @@ I am passionate about solving problems using technology. I'm a FullStack Develop
  <br/> :blush: &nbsp; Can i help you with tips on e-commerce and logistics
  <br/> :computer: &nbsp; My stack: Javascript, ReactJS, Node.js, React Native & Typescript
  <br/> 💬  &nbsp; Ask me about tecnology, travels, neurolinguistics and startups**
- <br/> :newspaper: &nbsp; I regulary write articles on [ecommercebrasil.com.br/author/wellingtoncid](ecommercebrasil.com.br/author/wellingtoncid)
+ <br/> :newspaper: &nbsp; I regulary write articles on 
+[![E-commerceBrasil](https://img.shields.io/badge/-E-commerceBrasil-blue?style=flat-square&logo=E-commerceBrasil&logoColor=white&link=https://www.ecommercebrasil.com.br/author/wellingtoncid/)](https://www.ecommercebrasil.com.br/author/wellingtoncid)
  <br/> :email: &nbsp; How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-WellingtonCid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wellingtoncid/)](https://www.linkedin.com/in/wellingtoncid/) 
 | 
 [![Gmail Badge](https://img.shields.io/badge/-cid.wellington@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cid.wellington@gmail.com)](mailto:cid.wellington@gmail.com)
