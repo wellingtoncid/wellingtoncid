@@ -4,7 +4,7 @@
 I am passionate about solving problems using technology. I'm a FullStack Developer :computer:
 
  👨‍💻  I'm a technology and logistics consultant learning software development
- :rocket:  &nbsp; I’m currently studying on **Rocketseat**
+ <br/> :rocket:  &nbsp; I’m currently studying on **Rocketseat**
  <br/> :purple_heart: &nbsp; I'm looking to collaborate with new projects to acquire more experiences
  <br/> :blush: &nbsp; Can i help you with tips on e-commerce and logistics
  <br/> :computer: &nbsp; My stack: Javascript, ReactJS, Node.js, React Native & Typescript
