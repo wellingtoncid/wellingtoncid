@@ -7,7 +7,7 @@ I am passionate about solving problems using technology. I'm a FullStack Develop
  <br/> :rocket:  &nbsp; I’m currently studying on **Rocketseat**
  <br/> :purple_heart: &nbsp; I'm looking to collaborate with new projects to acquire more experiences
  <br/> :blush: &nbsp; I can help you with tips on e-commerce and logistics
- <br/> :computer: &nbsp; My stack: Javascript, ReactJS, Node.js, React Native & Typescript
+ <br/> :computer: &nbsp; My stack: Javascript, ReactJS, Node.js, React Native & PHP
  <br/> 💬  &nbsp; Ask me about **technology, travels, neurolinguistics and startups**
  <br/> :newspaper: &nbsp; I regularly write articles on [E-commerce Brasil](https://www.ecommercebrasil.com.br/author/wellingtoncid)
  <br/> :email: &nbsp; How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-WellingtonCid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wellingtoncid/)](https://www.linkedin.com/in/wellingtoncid/) 
