@@ -1,11 +1,12 @@
 # 🚀 Wellington Cid  
-**FullStack Developer** | **Web Developer** | **Tech & Logistics Consultant**
+**FullStack Developer** | **Web Developer** | **E-commerce Specialist** | **Tech & Logistics Consultant**
 
-> _I design and implement technology-driven solutions that enhance productivity, reduce costs, and deliver measurable business results._  
+> _I design and implement technology-driven solutions that enhance productivity, optimize operations, and deliver measurable business results._  
 
 ---
 
 ## 🛠️ **Core Expertise**
+- **E-commerce Solutions:** Developing and optimizing platforms for seamless customer experiences and operational efficiency.  
 - **Web Development:** Building scalable and responsive web applications using **ReactJS**, **Node.js**, and **PHP**.  
 - **System Optimization:** Automating processes to improve efficiency and reduce operational costs.  
 - **Data-Driven Solutions:** Creating real-time dashboards and actionable insights using **SQL**, **NoSQL**, and **Power BI**.  
@@ -14,15 +15,18 @@
 ---
 
 ## 📊 **Professional Highlights**
+### **E-commerce Specialist**  
+- Designed and deployed custom **e-commerce platforms**, automating inventory management and payment systems.  
+- Implemented end-to-end solutions to enhance user experience, reliability, and customer satisfaction.  
+- Supported clients with strategies that boosted **operational efficiency** and improved conversion rates.  
+
 ### **FullStack & Web Developer**  
 - Built dynamic web applications with **JavaScript**, **ReactJS**, and **Node.js**, delivering seamless user experiences.  
 - Designed and optimized APIs for high-performance web platforms, ensuring scalability and reliability.  
-- Developed e-commerce solutions, automating order tracking and payment systems to enhance operational efficiency.
 
 ### **Technology & Logistics Consultant**  
 - Reduced operational costs by **32%** with customized logistics management systems.  
 - Automated key processes, cutting SLA times by over **60%** while improving service reliability.  
-- Integrated advanced tech solutions to enhance communication and collaboration across teams.
 
 ---
 
@@ -30,7 +34,7 @@
 - **Languages:** JavaScript, PHP  
 - **Frontend:** ReactJS, HTML/CSS  
 - **Backend:** Node.js, API Development  
-- **Mobile:** React Native  
+- **E-commerce Platforms:** Magento, WooCommerce, Shopify  
 - **Databases:** SQL, NoSQL  
 - **Tools & Platforms:** ERP, WMS, TMS, Jira, Power BI  
 - **Methodologies:** Scrum, Kanban, Agile Development  
@@ -38,11 +42,11 @@
 ---
 
 ## 🌟 **Key Projects**
+### **E-commerce Automation**  
+Built and deployed custom e-commerce solutions with automated inventory tracking, order management, and streamlined checkout processes.  
+
 ### **Web Application for Logistics**  
 Developed a responsive platform integrating real-time logistics tracking, improving decision-making and client satisfaction.  
-
-### **E-commerce Automation**  
-Built and deployed custom e-commerce solutions with automated inventory management and streamlined checkout processes.  
 
 ### **Custom Dashboards for Business Intelligence**  
 Created interactive dashboards using **Power BI** and **SQL**, enabling clients to make data-driven decisions efficiently.  
@@ -58,7 +62,7 @@ Created interactive dashboards using **Power BI** and **SQL**, enabling clients 
 ---
 
 ## 🤝 **Why Work with Me**
-- **Web Expertise:** Crafting fast, user-friendly web applications tailored to business needs.  
+- **E-commerce Expertise:** Crafting scalable, user-friendly platforms that drive sales and enhance customer engagement.  
 - **Proven Results:** Delivering measurable outcomes like cost reduction, productivity boosts, and streamlined operations.  
 - **Strategic Vision:** Combining technical expertise with business acumen to align technology with organizational goals.  
 
@@ -80,4 +84,4 @@ Created interactive dashboards using **Power BI** and **SQL**, enabling clients 
 ---
 
 ## ✨ **My Mission**
-_Transforming technology into scalable, user-centric web solutions that drive business growth and innovation._  
+_Transforming technology into scalable, user-centric web and e-commerce solutions that drive business growth and innovation._  
