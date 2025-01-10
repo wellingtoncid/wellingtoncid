@@ -1,4 +1,4 @@
-<img width="auto" src="https://github.com/wellingtoncid/wellingtoncid/blob/master/banner.png">
+<!-- <img width="auto" src="https://github.com/wellingtoncid/wellingtoncid/blob/master/bannerx.png"> -->
 
 ## Hi 👋, I'm Wellington Cid
 I am passionate about solving problems using technology. I'm a FullStack Developer :computer:
